@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @ernbernie. I have been told I am very sweet and kind.
-- 👀 I’m interested in ... learning skills that I can leverage to make enough money that will change me and my family's lives.
-- 🌱 I’m currently learning ... python. I want to be able to make the keyboard and computer dance to the tune of my fingers. A composer of sort. I 
-- am still choosing what I'll learn after python.
-- 💞️ I’m looking to collaborate on ... I feel that I am too new to the space to really answer this adequately.
-- 📫 How to reach me ... twitter at cowboyfishlove .. I am grateful for you reading this and showing interest in me.
+- 👋 Hi, I’m @ernbernie. I am passionate about kindness and providing value.
+- 👀 I’m interested in ... expanding on my skill repertoire, reading about new things, and working in the blockchain space.
+- 🌱 I’m currently learning ... as much as I can about the blockchain field until I find a niche I want to become a top expert in.
+- 💞️ I’m looking to collaborate on ... something that I believe in and is motivated by something else than just profits. 
+- 📫 How to reach me ... twitter at cowboyfishlove .. I am grateful you took the time to read this. Feel free to reach out to my twitter at any time
 
 <!---
 ernbernie/ernbernie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
